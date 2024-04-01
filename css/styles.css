@@ -1,13 +1,19 @@
-#head {
+/* Path: css/styles.css */
+
+
+head {
   background-color: #333;
-  color: #fff;
+  color: black;
   padding: 1rem;
   text-align: center;
 
 
 }
 
-.h2{
+title{
     text-align: center;
+    color:red;
 
 }
+
+
